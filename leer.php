@@ -46,7 +46,7 @@ $miConsulta->execute();
             <th>Título</th>
             <th>Autor</th>
             <th>¿Disponible?</th>
-            <td>Modificar</td>
+            <td>Modficar</td>
             <td>Eliminar</td>
         </tr>
     <?php foreach ($miConsulta as $clave => $valor): ?> 
